@@ -1,3 +1,6 @@
+//Board class is responsible for the overall game display,
+//drawing game objects, handling input, and managing UI.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
